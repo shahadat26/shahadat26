@@ -132,15 +132,6 @@ Explore my public repositories for additional backend, full-stack, AI, and infra
 
 ---
 
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://jandi.firejune.io/shahadat26?scheme=dark"
-    alt="Shahadat's GitHub contribution calendar"
-    width="100%"
-  />
 </p>
 
 
@@ -158,11 +149,23 @@ Explore my public repositories for additional backend, full-stack, AI, and infra
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/shahadat26">
+  <a href="https://github.com/shahadat26" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://shahadatmiazi.com">
+  <a href="https://shahadatmiazi.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shahadatmiazi01" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/shahadatmiazi01" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="https://medium.com/@shahadatmiazi01" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://substack.com/@shahadatmiazi01" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
   </a>
 </p>
 
