@@ -138,6 +138,7 @@ Explore my public repositories for additional backend, full-stack, AI, and infra
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahadat26&theme=tokyo-night&hide_border=true" alt="Shahadat's GitHub contribution activity graph" width="100%" />
 </p>
+
 ## 🎯 Current Interests
 
 - Designing scalable backend architectures and distributed systems.
