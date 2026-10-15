@@ -136,8 +136,18 @@ Explore my public repositories for additional backend, full-stack, AI, and infra
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahadat26&theme=tokyo-night&hide_border=true" alt="Shahadat's GitHub contribution activity graph" width="100%" />
+  <a href="https://github.com/shahadat26">
+    <img src="https://img.shields.io/badge/View%20My-GitHub%20Contributions-238636?style=for-the-badge&logo=github" alt="View my GitHub contributions"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/shahadat26">
+    View my contribution calendar and activity on GitHub →
+  </a>
+</p>
+
+
 
 ## 🎯 Current Interests
 
